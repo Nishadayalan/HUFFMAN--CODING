@@ -28,7 +28,7 @@ print the characters and its huffmancode.
 
 
 # Step 1: Get the input string
-input_string = "bhumireddy lakshmi vardhan reddy"  # Example input string
+input_string = "NISHA D"  # Example input string
 
 ```
 ```
